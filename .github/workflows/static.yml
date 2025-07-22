@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Village Vegetable Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Village Vegetable Shop</h1>
+    <p>Fresh vegetables delivered to your doorstep!</p>
+
+    <table>
+      <tr>
+        <th>Vegetable</th>
+        <th>Price (₹)</th>
+        <th>Available (kg)</th>
+      </tr>
+      <tr>
+        <td>Tomato</td>
+        <td>20</td>
+        <td>15</td>
+      </tr>
+      <tr>
+        <td>Onion</td>
+        <td>30</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>Carrot</td>
+        <td>25</td>
+        <td>8</td>
+      </tr>
+    </table>
+
+    <p>To order: Call or WhatsApp 8122753774</p>
+  </div>
+</body>
+</html>
